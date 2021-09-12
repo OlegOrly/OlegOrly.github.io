@@ -1,0 +1,48 @@
+body{
+	background-image: url(im/4.jpg);
+	opacity: 0.7
+}
+
+a{
+	color:rgba(235, 10, 10, 0.5);
+	font-size:20px;
+}
+
+div{
+	color:#eb7a0a;
+}
+
+#a1{
+	color:lime;
+}
+
+#test1{
+	front-size: 20px;
+	color: #8737FF;
+}
+
+.blok1{
+	background-color:#333;
+	border: 20px solid #ffff;
+	padding: 15px;
+	margin: 10px;
+	width: 10%;
+}
+
+.blok2{
+	margin-top: -120px;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding: 10px;
+	padding-left: 70px;
+	background-color: #ffff;
+	border: 5px;
+	width: -80px;
+	height: 30px;
+	ma
+}
+
+.blok3{
+	margin-left: 1500px;
+}
+
